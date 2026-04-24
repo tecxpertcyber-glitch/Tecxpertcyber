@@ -1,0 +1,444 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Business & Legal",
+      "iconName": "Briefcase",
+      "color": "text-blue-400",
+      "bg": "bg-blue-400/10",
+      "sortOrder": 1
+    },
+    {
+      "id": 2,
+      "title": "Government & Identity",
+      "iconName": "ShieldCheck",
+      "color": "text-emerald-400",
+      "bg": "bg-emerald-400/10",
+      "sortOrder": 2
+    },
+    {
+      "id": 3,
+      "title": "Travel & Immigration",
+      "iconName": "Globe",
+      "color": "text-amber-400",
+      "bg": "bg-amber-400/10",
+      "sortOrder": 3
+    },
+    {
+      "id": 4,
+      "title": "Education & Career",
+      "iconName": "GraduationCap",
+      "color": "text-purple-400",
+      "bg": "bg-purple-400/10",
+      "sortOrder": 4
+    },
+    {
+      "id": 5,
+      "title": "Printing & Design",
+      "iconName": "Printer",
+      "color": "text-rose-400",
+      "bg": "bg-rose-400/10",
+      "sortOrder": 5
+    },
+    {
+      "id": 6,
+      "title": "Digital & Creative",
+      "iconName": "Laptop",
+      "color": "text-cyan-400",
+      "bg": "bg-cyan-400/10",
+      "sortOrder": 6
+    },
+    {
+      "id": 7,
+      "title": "Driving & Transport",
+      "iconName": "CreditCard",
+      "color": "text-orange-400",
+      "bg": "bg-orange-400/10",
+      "sortOrder": 7
+    },
+    {
+      "id": 8,
+      "title": "Other Services",
+      "iconName": "MousePointer2",
+      "color": "text-slate-400",
+      "bg": "bg-slate-400/10",
+      "sortOrder": 8
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": "Business Registration",
+      "price": "777",
+      "sortOrder": 1
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "name": "VAT / Rental Renewals",
+      "price": "300",
+      "sortOrder": 2
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "name": "Motor Vehicle Transfer",
+      "price": "400",
+      "sortOrder": 3
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "name": "AGPO Registration",
+      "price": "500",
+      "sortOrder": 4
+    },
+    {
+      "id": 5,
+      "categoryId": 1,
+      "name": "Tax Compliance Certificate",
+      "price": "500",
+      "sortOrder": 5
+    },
+    {
+      "id": 6,
+      "categoryId": 1,
+      "name": "CR 12 Application",
+      "price": "300",
+      "sortOrder": 6
+    },
+    {
+      "id": 7,
+      "categoryId": 1,
+      "name": "Marriage Certificate",
+      "price": "500",
+      "sortOrder": 7
+    },
+    {
+      "id": 8,
+      "categoryId": 1,
+      "name": "KRA Returns",
+      "price": "200",
+      "sortOrder": 8
+    },
+    {
+      "id": 9,
+      "categoryId": 2,
+      "name": "KRA PIN Registration",
+      "price": "200",
+      "sortOrder": 1
+    },
+    {
+      "id": 10,
+      "categoryId": 2,
+      "name": "SHA Application",
+      "price": "200",
+      "sortOrder": 2
+    },
+    {
+      "id": 11,
+      "categoryId": 2,
+      "name": "NSSF Application",
+      "price": "200",
+      "sortOrder": 3
+    },
+    {
+      "id": 12,
+      "categoryId": 2,
+      "name": "Good Conduct Certificate",
+      "price": "150",
+      "sortOrder": 4
+    },
+    {
+      "id": 13,
+      "categoryId": 2,
+      "name": "ID Card Application",
+      "price": "150",
+      "sortOrder": 5
+    },
+    {
+      "id": 14,
+      "categoryId": 2,
+      "name": "Huduma Booking",
+      "price": "50",
+      "sortOrder": 6
+    },
+    {
+      "id": 15,
+      "categoryId": 2,
+      "name": "TSC Number",
+      "price": "300",
+      "sortOrder": 7
+    },
+    {
+      "id": 16,
+      "categoryId": 2,
+      "name": "Food Handler Certificate",
+      "price": "300",
+      "sortOrder": 8
+    },
+    {
+      "id": 17,
+      "categoryId": 3,
+      "name": "Visa Application",
+      "price": "600",
+      "sortOrder": 1
+    },
+    {
+      "id": 18,
+      "categoryId": 3,
+      "name": "Passport Application",
+      "price": "600",
+      "sortOrder": 2
+    },
+    {
+      "id": 19,
+      "categoryId": 3,
+      "name": "East Africa Passport",
+      "price": "600",
+      "sortOrder": 3
+    },
+    {
+      "id": 20,
+      "categoryId": 3,
+      "name": "USA Green Card Application",
+      "price": "300",
+      "sortOrder": 4
+    },
+    {
+      "id": 21,
+      "categoryId": 4,
+      "name": "HELB Application",
+      "price": "350",
+      "sortOrder": 1
+    },
+    {
+      "id": 22,
+      "categoryId": 4,
+      "name": "Student Project / Business Plan",
+      "price": "Contact us",
+      "sortOrder": 2
+    },
+    {
+      "id": 23,
+      "categoryId": 5,
+      "name": "Digital Passport Photo (2)",
+      "price": "50",
+      "sortOrder": 1
+    },
+    {
+      "id": 24,
+      "categoryId": 5,
+      "name": "Digital Passport Photo (4)",
+      "price": "100",
+      "sortOrder": 2
+    },
+    {
+      "id": 25,
+      "categoryId": 5,
+      "name": "Photo Printing (4×6)",
+      "price": "50",
+      "sortOrder": 3
+    },
+    {
+      "id": 26,
+      "categoryId": 5,
+      "name": "Lamination",
+      "price": "50",
+      "sortOrder": 4
+    },
+    {
+      "id": 27,
+      "categoryId": 5,
+      "name": "Binding (50 pages)",
+      "price": "100",
+      "sortOrder": 5
+    },
+    {
+      "id": 28,
+      "categoryId": 5,
+      "name": "Scanning (per page)",
+      "price": "20",
+      "sortOrder": 6
+    },
+    {
+      "id": 29,
+      "categoryId": 5,
+      "name": "Printing (color, per page)",
+      "price": "20",
+      "sortOrder": 7
+    },
+    {
+      "id": 30,
+      "categoryId": 5,
+      "name": "Photocopy (per page)",
+      "price": "5",
+      "sortOrder": 8
+    },
+    {
+      "id": 31,
+      "categoryId": 5,
+      "name": "Typing (per page)",
+      "price": "50",
+      "sortOrder": 9
+    },
+    {
+      "id": 32,
+      "categoryId": 6,
+      "name": "Web Design",
+      "price": "800",
+      "sortOrder": 1
+    },
+    {
+      "id": 33,
+      "categoryId": 6,
+      "name": "Software Solution",
+      "price": "400",
+      "sortOrder": 2
+    },
+    {
+      "id": 34,
+      "categoryId": 6,
+      "name": "Logo Design",
+      "price": "500",
+      "sortOrder": 3
+    },
+    {
+      "id": 35,
+      "categoryId": 6,
+      "name": "Business Card Design",
+      "price": "200",
+      "sortOrder": 4
+    },
+    {
+      "id": 36,
+      "categoryId": 6,
+      "name": "Letterhead Design",
+      "price": "150",
+      "sortOrder": 5
+    },
+    {
+      "id": 37,
+      "categoryId": 6,
+      "name": "Banner Design",
+      "price": "Contact us",
+      "sortOrder": 6
+    },
+    {
+      "id": 38,
+      "categoryId": 7,
+      "name": "Driving License Renewal",
+      "price": "200",
+      "sortOrder": 1
+    },
+    {
+      "id": 39,
+      "categoryId": 7,
+      "name": "Smart DL Application",
+      "price": "200",
+      "sortOrder": 2
+    },
+    {
+      "id": 40,
+      "categoryId": 7,
+      "name": "Interim Licence Application",
+      "price": "150",
+      "sortOrder": 3
+    },
+    {
+      "id": 41,
+      "categoryId": 7,
+      "name": "PSV Badge Application",
+      "price": "150",
+      "sortOrder": 4
+    },
+    {
+      "id": 42,
+      "categoryId": 7,
+      "name": "Temporary Permit",
+      "price": "200",
+      "sortOrder": 5
+    },
+    {
+      "id": 43,
+      "categoryId": 7,
+      "name": "Motor Vehicle Acceptance",
+      "price": "400",
+      "sortOrder": 6
+    },
+    {
+      "id": 44,
+      "categoryId": 7,
+      "name": "Motor Vehicle Inspection",
+      "price": "200",
+      "sortOrder": 7
+    },
+    {
+      "id": 45,
+      "categoryId": 7,
+      "name": "Driving Licence Application",
+      "price": "200",
+      "sortOrder": 8
+    },
+    {
+      "id": 46,
+      "categoryId": 8,
+      "name": "eCitizen Services",
+      "price": "Contact us",
+      "sortOrder": 1
+    },
+    {
+      "id": 47,
+      "categoryId": 8,
+      "name": "Browsing (per minute)",
+      "price": "1",
+      "sortOrder": 2
+    }
+  ],
+  "admin_settings": [
+    {
+      "id": 1,
+      "passwordHash": "$2b$10$U.2BBihsnVotskJbBh9/re6M63NZthPo1Zb0dqc3KH1EbCyJferl2"
+    }
+  ],
+  "site_settings": {
+    "name": "Edited via admin",
+    "tagline": "Fast. Reliable. Affordable.",
+    "heroTitle": "TECXPERT CYBER SERVICES",
+    "heroSubtitle": "Fast, reliable, and affordable digital solutions for all your business, government, and personal documentation needs.",
+    "phone": "+254 702 988155",
+    "whatsappNumber": "254702988155",
+    "emails": [
+      "tecxpertcyber@gmail.com"
+    ],
+    "location": "Kenya",
+    "ctaLabel": "Order on WhatsApp",
+    "footerNote": "",
+    "servicesHeroTitle": "TECXPERT CYBER SERVICES",
+    "servicesHeroSubtitle": "Fast, reliable, and affordable digital solutions for all your business, government, and personal documentation needs.",
+    "whyTitle": "Why Choose Us?",
+    "whySubtitle": "We make complicated processes simple and fast.",
+    "whyFeature1Title": "Reliable & Secure",
+    "whyFeature1Desc": "Your documents and data are handled with the utmost security and confidentiality.",
+    "whyFeature2Title": "Extremely Fast",
+    "whyFeature2Desc": "We value your time. Most services are completed within minutes or hours.",
+    "whyFeature3Title": "Best Prices",
+    "whyFeature3Desc": "Quality service doesn't have to be expensive. We offer the most competitive rates.",
+    "ctaSectionTitle": "Ready to get started?",
+    "ctaSectionSubtitle": "Don't wait in long queues. Contact us today and let us handle the paperwork for you!",
+    "mpesaEnabled": true,
+    "mpesaPaybill": "880100",
+    "mpesaAccountNumber": "111181",
+    "mpesaInstructions": "Pay via M-Pesa. After payment, send your order via WhatsApp.",
+    "mpesaShortcode": "880100",
+    "mpesaEnv": "sandbox"
+  },
+  "_meta": {
+    "lastId": {
+      "categories": 8,
+      "services": 47,
+      "admin_settings": 1
+    }
+  }
+}

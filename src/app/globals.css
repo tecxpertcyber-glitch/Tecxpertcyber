@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --animate-glitch-line: glitch-line 4s infinite;
+}
+
+@keyframes glitch-line {
+  0% { transform: translateY(0); opacity: 0; }
+  5% { opacity: 0.5; }
+  10% { transform: translateY(100vh); opacity: 0; }
+  100% { transform: translateY(100vh); opacity: 0; }
+}
+
+:root {
+  --foreground-rgb: 0, 255, 0;
+  --background-start-rgb: 0, 0, 0;
+  --background-end-rgb: 0, 0, 0;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-start-rgb));
+}
